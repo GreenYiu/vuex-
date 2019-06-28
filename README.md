@@ -128,4 +128,4 @@ actions         是能够在里面写异步代码的地方
     用的最多的 this.$store.state 拿数据
     通过 this.$store.getters  拿 getters中的数据
     通过 this.$store.commit  提交mutations 中的某个mutation
-    通过 this.$store.dispathch
+    通过 this.$store.dispathch去派发某个动作 
